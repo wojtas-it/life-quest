@@ -6,17 +6,19 @@ Built with React Native and Expo, so it runs on both Android and iOS.
 
 ## Demo
 
-> [Watch the demo video](https://youtube.com/your-link-here) (replace with your actual link)
+> [Watch the demo video](https://youtube.com/your-link-here)
 
 ## Screenshots
 
-![Login screen](screenshots/login.jpg)
-![Home screen with quest list](screenshots/home.jpg)
-![Task list](screenshots/task_list.jpg)
-![Adding a new quest](screenshots/new_quest.jpg)
-![Skill tree view](screenshots/tree.jpg)
-![Stats and history](screenshots/stats.jpg)
-![Profile and achievements](screenshots/user.jpg)
+<p float="left">
+  <img src="screenshots/login.jpg" width="180" alt="Login screen" />
+  <img src="screenshots/home.jpg" width="180" alt="Home screen" />
+  <img src="screenshots/task_list.jpg" width="180" alt="Task list" />
+  <img src="screenshots/new_quest.jpg" width="180" alt="New quest" />
+  <img src="screenshots/tree.jpg" width="180" alt="Skill tree" />
+  <img src="screenshots/stats.jpg" width="180" alt="Stats" />
+  <img src="screenshots/user.jpg" width="180" alt="Profile" />
+</p>
 
 ## Features
 
