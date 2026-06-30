@@ -1,0 +1,86 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.ipa
+*.apk
+
+# Metro
+.metro-health-check*
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env
+.env*.local
+
+# Logs
+logs/
+*.log
+
+# MongoDB
+data/
+
+# Build
+build/
+*.tsbuildinfo
+
+# Testing
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+*~
+.tmp/
+
+# OS
+Thumbs.db
+
+TODO.md
+
+# Academic / submission files (not for portfolio)
+etap1 - zrealizowany.pdf
+etap2 - zrealizowany.pdf
+etap 3 - do realizacji.txt
+Raport_Postępu_Etap3.txt
+do_wyslania/
+LifeQuest_Dokumentacja_Etap4.html
+LifeQuest_Dokumentacja_Etap4.odt
+LifeQuest_Raport_Etap3.odt
+LifeQuest_Etap4_kod.zip
+lifequest-backend.tar.gz
+
+# Large media files (link them in README instead)
+*.mp4
+Wideo.mp4
+
+# Claude AI context
+.claude/
+
+# Office/archive formats
+*.odt
+*.tar.gz
